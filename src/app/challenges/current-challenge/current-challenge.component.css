@@ -1,0 +1,8 @@
+/* Add mobile styles for the component here.  */
+.title {
+    font-size: 26;
+    text-align: center;
+    color: rgb(187, 6, 118);
+    font-weight: bold;
+    margin-top: 10;
+}
